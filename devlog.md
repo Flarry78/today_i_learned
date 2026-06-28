@@ -1,7 +1,8 @@
 
 # What i learned today
 
-In this Document i write all the things down that i try to learn ^^.
+> **Note on structure:** This repository tracks my general learning progress (e.g., freeCodeCamp, Linux challenges, SQL courses).
+> Larger programming projects—like my Tower Defense Game—have their own dedicated devlogs inside their respective repositories.
 
 
 ### 2026-06-26
