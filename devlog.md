@@ -25,5 +25,3 @@
 ## 2026-06-29
 
 - 'Overthewire' got to Level 12 (Level 12 with help)
-=======
->>>>>>> 58947cc0e74468d6c19c9c4cca8dda578bf483d7
