@@ -18,3 +18,8 @@ In this Document i write all the things down that i try to learn ^^.
 - I decided for my usecase that i only needed SQLite.
 - Prepared and USB-Stick with Godot, Dbeaver and my Projects so that i can work on them on other Computers without installation.
 - Started my VM with Ubuntu and played the Game 'OvertheWire' to learn more about Linux. came today to Level 8.
+
+
+## 2026-06-29
+
+- 'Overthewire' got to Level 12 (Level 12 with help)
