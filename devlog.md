@@ -23,4 +23,9 @@
 
 ## 2026-06-29
 
-- 'Overthewire' got to Level 12 (Level 12 with help)
+- 'Overthewire' got to Level 12 (Level 11 with help)
+
+
+## 2026-06-30
+
+- 'Overthewire' Level 12 finished
