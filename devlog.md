@@ -29,3 +29,8 @@
 ## 2026-06-30
 
 - 'Overthewire' Level 12 finished
+
+
+## 2026-07-04
+
+- 'Overthewire' started again from 0 to Level 12
