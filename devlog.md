@@ -34,3 +34,8 @@
 ## 2026-07-04
 
 - 'Overthewire' started again from 0 to Level 12
+
+
+## 2026-07-05
+
+- Completed a freeCodeCamp workshop "Medical Data Validator" in Python, using re.fullmatch and isinstance() and list comprehensions for error filtering—refined with some assistance to master the advanced syntax.
