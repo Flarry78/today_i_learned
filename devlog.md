@@ -39,3 +39,9 @@
 ## 2026-07-05
 
 - Completed a freeCodeCamp workshop "Medical Data Validator" in Python, using re.fullmatch and isinstance() and list comprehensions for error filtering—refined with some assistance to master the advanced syntax.
+
+
+## 2026-07-09
+
+- Completed the 'Linux Unhatched Course' from 'Cisco Networking Academy'.
+In this course I learned about performing basic Linux operations, administrative, and security-related tasks.
