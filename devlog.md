@@ -45,3 +45,10 @@
 
 - Completed the 'Linux Unhatched Course' from 'Cisco Networking Academy'.
 In this course I learned about performing basic Linux operations, administrative, and security-related tasks.
+
+
+## 2026-07-18
+
+- learned about Cisco Packet Tracer.
+- Installed Cisco Packet Tracer.
+- Finished the first PTTA ( Packet Tracer Tutored Activity)
