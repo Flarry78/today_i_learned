@@ -52,3 +52,9 @@ In this course I learned about performing basic Linux operations, administrative
 - learned about Cisco Packet Tracer.
 - Installed Cisco Packet Tracer.
 - Finished the first PTTA ( Packet Tracer Tutored Activity)
+
+
+## 2026-07-20
+
+- Started the Cisco Networking Academy Course 'Networking Basic'
+- Completed the first 2 Modules
