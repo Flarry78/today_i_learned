@@ -58,3 +58,10 @@ In this course I learned about performing basic Linux operations, administrative
 
 - Started the Cisco Networking Academy Course 'Networking Basic'
 - Completed the first 2 Modules
+
+
+## 2026-07-22
+
+- Completed Module 3 and 4 of the Cisco Networking Academy Course 'Networking Basic'
+- Started the Cisco Networking Academy Course 'Python Essentials 1'
+- Completed Module 1 from 'Python Essentials 1'
