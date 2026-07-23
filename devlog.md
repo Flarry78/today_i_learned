@@ -65,3 +65,11 @@ In this course I learned about performing basic Linux operations, administrative
 - Completed Module 3 and 4 of the Cisco Networking Academy Course 'Networking Basic'
 - Started the Cisco Networking Academy Course 'Python Essentials 1'
 - Completed Module 1 from 'Python Essentials 1'
+
+
+## 2026-07-23
+
+- Participating on the "GMTK Game Jam 2026"
+- the theme is "Count down"
+- created a concept for my idea.
+- started programming the core mechanics
