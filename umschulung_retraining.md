@@ -15,3 +15,9 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - Diverse Aufgaben in Microsoft Excel bearbeitet.
 - WENN, XVERWEIS, SUMME etc.
+
+
+## 2026-07-24
+
+- Mit Microsoft Powerpoint eine Präsentation erstellt und diese vorgestellt.
+- Mein Thema waren Algorythmen und habe dann mit Hilfe von "Morphen" und kleinen "Boxen" grafisch vorgestellt wie sich ein "Bubble Sort", "Insert Sort" und "Bogo Sort" verhält.

@@ -73,3 +73,31 @@ In this course I learned about performing basic Linux operations, administrative
 - the theme is "Count down"
 - created a concept for my idea.
 - started programming the core mechanics
+
+
+## 2026-07-24
+
+- Created Assets and Tilemaps
+- Created the menu
+- programmed more tower
+- finished the core mechanics of the game
+
+## 2026-07-25
+
+- got sound effects from freesound.org
+- edited the sounds with audacity
+- implemented the sounds and music to the game
+- a timer speed the music up the more powerful the enemies get
+- added the highscore
+- did last tweaks and added a description
+- realeased it on itch.io
+
+
+## 2026-07-28
+
+- Completed Module 2 from 'Python Essentials 1'
+
+
+## 2026-07-29
+
+- completed the full 'Python Essentials 1' course
