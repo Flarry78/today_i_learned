@@ -100,4 +100,10 @@ In this course I learned about performing basic Linux operations, administrative
 
 ## 2026-07-29
 
-- completed the full 'Python Essentials 1' course
+- completed the full 'Python Essentials 1' Course
+
+
+## 2026-08-03
+
+- deleted the repo with my old SQL Project
+- completed module 5 in the cisco Course "Networking Basics"

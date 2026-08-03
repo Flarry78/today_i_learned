@@ -26,4 +26,10 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 ## 2026-07-27 - 2026-07-31
 
 - Bewerbung schreiben und bearbeiten
-- 
+- Lern- und Arbeitstechniken
+- Markstruktur analysieren
+- Wertschöpfungskette analysieren
+
+## 2026-08-03
+
+- Betriebliche Produktionsfaktoren
