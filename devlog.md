@@ -107,3 +107,12 @@ In this course I learned about performing basic Linux operations, administrative
 
 - deleted the repo with my old SQL Project
 - completed module 5 in the cisco Course "Networking Basics"
+
+
+## 2026-08-05
+
+- Installed Docker on my Working Laptop
+- Set up MySQL in a Docker container
+- installed DBeaver and connected to my MySQl Database
+- played around with Excel PowerQuery and the Cheapshark API
+- created a new Github Repo for the SQL Project

@@ -30,6 +30,19 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Markstruktur analysieren
 - Wertschöpfungskette analysieren
 
+
 ## 2026-08-03
 
 - Betriebliche Produktionsfaktoren
+
+
+## 2026-08-04
+
+- Betriebliche Produktionsfaktoren
+- Organigramm analysieren
+
+
+## 2026-08-05
+
+- Organigramm analysieren
+- Rechte und Pflichten
