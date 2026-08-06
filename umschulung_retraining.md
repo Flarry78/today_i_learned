@@ -46,3 +46,8 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - Organigramm analysieren
 - Rechte und Pflichten
+
+
+## 2026-08-06
+
+- 
