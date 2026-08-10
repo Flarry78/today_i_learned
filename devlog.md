@@ -5,7 +5,7 @@
 > Larger programming projects—like my Tower Defense Game—have their own dedicated devlogs inside their respective repositories.
 
 
-### 2026-06-26
+## 2026-06-26
 
 - I installed Docker.
 - I installed a MySQL Database in Docker.

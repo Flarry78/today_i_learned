@@ -46,3 +46,22 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - Organigramm analysieren
 - Rechte und Pflichten
+
+
+## 2026-ß8-06
+
+- Unternehmen präsentieren
+- Arbeitsrechte der Arbeitnehmer
+
+
+## 2026-08-07
+
+- Handlungs- und Entscheidungspielraum darstellen
+- Soziales Sicherungssystem
+
+
+## 2026-08-10
+
+- Fort- und Weiterbildungsspielraum
+- Das Modellunternehmen JIKU IT-Solution Unternehmen kennen gelernt
+- Eine Powerpoint über JIKU erstellt und vorgestellt ( Gruppenmarbeit )
