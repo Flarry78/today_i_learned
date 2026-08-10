@@ -116,3 +116,8 @@ In this course I learned about performing basic Linux operations, administrative
 - installed DBeaver and connected to my MySQl Database
 - played around with Excel PowerQuery and the Cheapshark API
 - created a new Github Repo for the SQL Project
+
+
+## 2026-08-06
+
+- completed module 9 in the Cisco course "Networking Basics"

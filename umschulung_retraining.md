@@ -65,3 +65,4 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Fort- und Weiterbildungsspielraum
 - Das Modellunternehmen JIKU IT-Solution Unternehmen kennen gelernt
 - Eine Powerpoint über JIKU erstellt und vorgestellt ( Gruppenmarbeit )
+
