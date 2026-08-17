@@ -66,3 +66,25 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Das Modellunternehmen JIKU IT-Solution Unternehmen kennen gelernt
 - Eine Powerpoint über JIKU erstellt und vorgestellt ( Gruppenmarbeit )
 
+
+## 2026-08-11
+
+- Grundlagen des Wirtschaftens
+- Die rechtlichen Rahmenbedingungen des Wirtschaftens
+
+
+## 2026-08-12
+
+- Die Soziale Marktwirtschaft
+- Volkswirtschaftliche Arbeitsteilung und Globalisierung
+
+
+## 2026-08-13
+
+- Ziele von Betrieben und Unternehmen erklären
+- Vorbereitung auf dei Abschlussprüfung von Lernfeld 1
+
+
+## 2026-08-14
+
+- Abschlussprüfung von Lernfeld 1
