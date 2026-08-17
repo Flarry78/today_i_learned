@@ -88,3 +88,8 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 ## 2026-08-14
 
 - Abschlussprüfung von Lernfeld 1
+
+
+## 2026-08-17
+
+- Binär, Dezimal und Oktal Umrechnungen
