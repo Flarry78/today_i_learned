@@ -126,3 +126,8 @@ In this course I learned about performing basic Linux operations, administrative
 ## 2026-08-16
 
 - Completed module 15 in the Cisco course "Networking Basics"
+
+
+## 2026-08-17
+
+- completed the Cisco "Networking Basics" course
