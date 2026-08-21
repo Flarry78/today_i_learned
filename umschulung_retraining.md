@@ -100,3 +100,24 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - AND, XOR, OR, NOT Gatter
 - Halb- und Volladdierer
 - Brainstorming über PC Komponenten
+
+
+## 2026-08-19
+
+- Über die Komponenten geredet
+- eine Powerpoint Präsentation über die SSD gemacht
+- Praäsentionen vorgestellt
+
+
+## 2026-08-20
+
+- Prtäsentation vorgestellt
+- Über weitere PC Komponenten geredet
+- angefangen einen eigenen Pc zusammmen zu stellen mit einem Budget von 1000€
+
+
+## 2026-08-21
+
+- weiter den Pc zusammen gestellt
+- über hardware geredet
+- über sicherheitslücken bei hardware geredet
