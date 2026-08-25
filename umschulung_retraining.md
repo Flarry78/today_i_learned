@@ -121,3 +121,16 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - weiter den Pc zusammen gestellt
 - über hardware geredet
 - über sicherheitslücken bei hardware geredet
+
+
+## 2026-08-24
+
+- binär umgerechnet, exponent, mantisse
+- IEEE 754
+
+
+## 2026-08-25
+
+- IEEE 754
+- rowhammer video besprochen
+- Kundenbedarf ermitteln
