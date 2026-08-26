@@ -134,3 +134,9 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - IEEE 754
 - rowhammer video besprochen
 - Kundenbedarf ermitteln
+
+
+## 2026-08-26
+
+- Kundenbedarf ermitteln
+- über BIOS und Partitionen geredet
