@@ -140,3 +140,22 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - Kundenbedarf ermitteln
 - über BIOS und Partitionen geredet
+
+
+## 2026-08-27
+
+- Marktgängige IT-Systeme vorstellen
+- Komponenten eine Arbeitsplatzcomputers unterscheiden
+
+
+## 2026-08-28
+
+- Auswahlkriterien ableiten und dokumentieren
+
+
+## 2026-08-31
+
+- Pflichthefte
+- Arbeitsplatzbestandteile identifizieren
+- Unternehmenssoftware vergleichen und anbieten
+
