@@ -159,3 +159,23 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Arbeitsplatzbestandteile identifizieren
 - Unternehmenssoftware vergleichen und anbieten
 
+
+## 2026-09-01
+
+- PC liefern und in Betrieb nehmen
+- Vertiefung des Wissens und Vorbereitung Modulprüfung Teil 1
+
+
+## 2026-09-02
+
+- Übungsaufgaben
+- Modulprüfung absolviert
+- Prüfung besprochen
+
+
+## 2026-09-03
+
+- Lernfeld 5 angefangen
+- Visual Studio Community gedownloadet
+- wie und wo werden variablen gespeichert ( virtual memory)
+- datentypen aufgaben bearbeitet ( byte, int , float, long....etc)
