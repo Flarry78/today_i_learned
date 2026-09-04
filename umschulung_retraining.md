@@ -179,3 +179,10 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Visual Studio Community gedownloadet
 - wie und wo werden variablen gespeichert ( virtual memory)
 - datentypen aufgaben bearbeitet ( byte, int , float, long....etc)
+
+
+## 2026-09-04
+
+- Informationen durch Daten darstellen
+- Software unterscheiden
+- An Softwareprojekten mit arbeiten
