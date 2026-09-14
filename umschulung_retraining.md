@@ -213,3 +213,10 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 ## 2026-09-11
 
 - Über C# und Visual Studio gesprochen
+
+
+## 2026-09-14
+
+- Lasten- und Pflichtenheft
+- Modellierungssprachen unterscheiden
+- In Visual Studio in C# angefangen einen Taschenrechner zu programmieren
