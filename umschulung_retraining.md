@@ -186,3 +186,30 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Informationen durch Daten darstellen
 - Software unterscheiden
 - An Softwareprojekten mit arbeiten
+
+
+## 2026-09-07
+
+- Daten hinsichtlich Herkunft-, Art und Verfügbarkeit analysieren
+- Daten hinischtlich Speicheranforderungen analysieren und Speicherlösungen berücksichtigen
+
+## 2026-09-08
+
+- Vorgehensmodelle unterscheiden
+- Programmiersprachen und -Werkzeuge unterscheiden
+
+
+## 2026-09-09
+
+- Den Prozess der Anforderungsspezifikation und des Softwareentwurfs beschreiben
+- Softwareanpassungen durchführen, dokumentieren und testen
+
+
+## 2026-09-10
+
+- Pseudocode angeguckt und auf verschiedene Weise bearbeitet
+
+
+## 2026-09-11
+
+- Über C# und Visual Studio gesprochen

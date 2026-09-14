@@ -131,3 +131,8 @@ In this course I learned about performing basic Linux operations, administrative
 ## 2026-08-17
 
 - completed the Cisco "Networking Basics" course
+
+
+## 2026-09-14
+
+- read the blog about FHIR on https://fire.ly/blog/what-is-fhir/ 
