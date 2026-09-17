@@ -220,3 +220,22 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Lasten- und Pflichtenheft
 - Modellierungssprachen unterscheiden
 - In Visual Studio in C# angefangen einen Taschenrechner zu programmieren
+
+
+## 2926-09-15
+
+- Weiter Taschenrechner programmieren
+- "Rumspielen" mit For, while und if else
+
+
+## 2026-09-16
+
+- Weiter selbsttändig Aufgaben erledigen
+- Personalliste erstellt mit Ein- und Ausgabe
+- Zahlenratespiel programmiert
+
+
+## 2026-09-17
+
+- Selbstständig Einkauf / Sortiment / Warenkorb programmiert
+- Methods, for, foreach, Dictionary, Class, und List benutzt
