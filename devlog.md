@@ -136,3 +136,9 @@ In this course I learned about performing basic Linux operations, administrative
 ## 2026-09-14
 
 - read the blog about FHIR on https://fire.ly/blog/what-is-fhir/ 
+
+
+## 2026-09-20
+
+- watched videos for Active Directory to get a first impression of it
+- watched videos for DICOM, PACS / MIMPS, FHIR / Hl7
