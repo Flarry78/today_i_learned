@@ -239,3 +239,22 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - Selbstständig Einkauf / Sortiment / Warenkorb programmiert
 - Methods, for, foreach, Dictionary, Class, und List benutzt
+
+
+## 2026-09-18
+
+- Besuch auf der Jobmesse
+
+
+## 2026-09-21
+
+- User Cases erstellt und bearbeitet zb auf Draw.io
+- Über "Class" gesprochen in C#
+- Class benutzt um den Taschenrechner weiter zu bearbeiten
+- Ansonsten Learning by doing
+
+
+## 2026-09-22
+
+- UML und Klassendiagramme bearbeitet ( zb Draw.io )
+- Weiter an den eigenen Projekten programmiert
