@@ -258,3 +258,17 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - UML und Klassendiagramme bearbeitet ( zb Draw.io )
 - Weiter an den eigenen Projekten programmiert
+
+
+## 2026-09-23
+
+- weiter im script gearbeitet
+- weiter an projekten programmmiert
+
+
+## 2026-09-24
+
+- script wiederholt
+- eigenständig weiter programmiert
+- test aufgaben für prüfung
+- auf test vorbereitet
