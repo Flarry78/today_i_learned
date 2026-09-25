@@ -272,3 +272,8 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - eigenständig weiter programmiert
 - test aufgaben für prüfung
 - auf test vorbereitet
+
+
+## 2026-09-25
+
+- prüfung geschrieben
