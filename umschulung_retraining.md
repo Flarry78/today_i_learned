@@ -277,3 +277,18 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 ## 2026-09-25
 
 - prüfung geschrieben
+
+
+## 2026-09-28
+
+- script weiter gelesen
+- udemy kurs weiter gelernt
+- mit class und konstruktoren gearbeitet
+
+
+## 2026-09-29
+
+- weiter mnit class, konstruktoren
+- speicher und laden angefangen
+- udemy kurs weiter
+- script weiter
