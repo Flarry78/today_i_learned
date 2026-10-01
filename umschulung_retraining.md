@@ -292,3 +292,17 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - speicher und laden angefangen
 - udemy kurs weiter
 - script weiter
+
+
+## 2026-09-30
+
+- programmieren
+- udemy 
+- script
+
+
+## 2026-10-01
+
+- ERM Modelle bearbeitet und erstellt
+- Pseudo Code Aufgabe
+- Programmieren, Udemy, script
