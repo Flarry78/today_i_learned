@@ -306,3 +306,29 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - ERM Modelle bearbeitet und erstellt
 - Pseudo Code Aufgabe
 - Programmieren, Udemy, script
+
+
+## 2026-10-02
+
+- ERM Modelle
+- Programmiert
+
+
+## 2026-10-05
+
+- ERM Modelle bearbeitet
+- Script 128-138
+- Normalisierung
+- Datenmodelle , SQL
+
+
+## 2026-10-06
+
+- SQL Aufgaben bearbeitet
+- Aufgaben von AP1 und AP2 bearbeitet
+
+
+## 2026-10-07
+
+- AP1 Aufgaben bearbeitet
+- SQL aufgaben bearbeitet
