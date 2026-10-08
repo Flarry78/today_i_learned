@@ -332,3 +332,9 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - AP1 Aufgaben bearbeitet
 - SQL aufgaben bearbeitet
+
+
+## 2026-10-08
+
+- Python aufgaben erledigt
+- Udemy C#
