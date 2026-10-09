@@ -338,3 +338,9 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - Python aufgaben erledigt
 - Udemy C#
+
+
+## 2026-10-09
+
+- script weiter gemacht
+- API 1 Aufgaben
