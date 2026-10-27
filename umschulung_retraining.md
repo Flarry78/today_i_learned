@@ -344,3 +344,49 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - script weiter gemacht
 - API 1 Aufgaben
+
+
+## 2026-10-12
+
+- SQL Aufgaben
+- AP1 Aufgaben
+- Prüfung vorbereitung
+
+
+## 2026-10-13
+
+- Vorbereitung und lernen
+- Prüfung geschrieben
+- Prüfung besprochen
+
+
+## 2026-10-14
+
+- wireguard installiert
+- proxmoxx account gemacht
+- erste VM erstellt und Windows installiert
+- selber testen ( habe linux ubunti installiert )
+
+
+## 2026-10-15
+
+- Augaben auffrischen ( Mathe, Umrechnen )
+- Script Seite 1 - 28
+- Script 1 - 12 besprochen
+
+
+## 2026-10-16
+
+- Script
+- Aufgaben auffrischen
+
+
+## 2026-10-26
+
+- Aufgaben Mathe
+
+
+## 2026-10-27
+
+- Script bis Seite 42
+- Script weiter bis Seite 55
