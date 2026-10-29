@@ -390,3 +390,15 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 
 - Script bis Seite 42
 - Script weiter bis Seite 55
+
+
+## 2026-10-28
+
+- Script besprochen
+- Virtual Machine benutzt für DHCP benutzt
+- Subnetting und Ip Adressen berechnet
+
+
+## 2026-10-29
+
+- Aufgaben bearbeitet zum Bedienen und zurecht finden in Windows mithilfe der VM
