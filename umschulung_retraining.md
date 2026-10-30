@@ -402,3 +402,8 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 ## 2026-10-29
 
 - Aufgaben bearbeitet zum Bedienen und zurecht finden in Windows mithilfe der VM
+
+
+## 2026-10-30
+
+- Ip und aufbau angeguckt in der VM mit Wireshark
