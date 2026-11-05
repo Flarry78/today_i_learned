@@ -407,3 +407,30 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 ## 2026-10-30
 
 - Ip und aufbau angeguckt in der VM mit Wireshark
+
+
+## 2026-11-02
+
+- Mathemontag (Winkelberechnung, Strecke)
+- Subnetting
+
+
+## 2026-11-03
+
+- Subnetting
+- Neue VMs aufsetzem
+
+
+## 2026-11-04
+
+- Aufgabe 4 VMs zu erstellen
+- 2 VMs zu Routern machen und 2 zum Client PC
+- Aufgabe ohne DHCP einen Ping von PC 1 zu PC 2 schicken
+- Selber an Informationen kommen um die Aufgabe zu lösen
+
+
+## 2026-11-05
+
+- Script weiter bearbeitet
+- Signatur und encryption und decryption besprochen
+- kleine Übung mit SHA256
