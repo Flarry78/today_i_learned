@@ -434,3 +434,15 @@ Welcome to my learning log! Here, I document my progress, key takeaways, and pra
 - Script weiter bearbeitet
 - Signatur und encryption und decryption besprochen
 - kleine Übung mit SHA256
+
+
+## 2026-11-06
+
+- Selbstbeschäfftigung
+
+
+## 2026-11-09
+
+- Mathemontag
+- Subnetting
+- E-Technik ( Kondensatoren, Widerstand)
